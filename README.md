@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Tiwari</h1>
+<div align="center">
+  <img src="" alt="DevOpsShack Banner">
+</div>
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohittiwari98&label=Profile%20views&color=0e75b6&style=flat" alt="mohittiwari98" /> </p>
