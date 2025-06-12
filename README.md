@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Tiwari</h1>
 <div align="center">
-  <img src="" alt="DevOpsShack Banner">
+  <img src="Black Minimalist Music YouTube Banner.png" alt="DevOpsShack Banner">
 </div>
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
