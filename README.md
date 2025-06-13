@@ -83,6 +83,7 @@
 <a href="https://www.youtube.com/c/https://youtube.com/@glamorien?si=outterlzxqnl5aau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@glamorien?si=outterlzxqnl5aau" height="30" width="40" /></a>
 </p>
 
+
 ### 📊 Language Distribution
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=8&custom_title=🎯%20Code%20Stats)
@@ -94,8 +95,14 @@
 
 ![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=6&custom_title=🎨%20Distribution)
 
-
+<div align="center">
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+TECH+ARSENAL;%E2%9A%A1+SKILLS+%26+TOOLS;%F0%9F%9A%80+MY+PLAYGROUND" alt="Tech Arsenal" />
+</h1>
+<img src="https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e" width="250" style="border-radius: 25px; margin: 20px 0; filter: drop-shadow(0 15px 30px rgba(78, 205, 196, 0.4));" />
+</div>
 # 💻 Tech Stack:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 <h3 align="left">Languages and Tools:</h3>
