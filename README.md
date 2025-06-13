@@ -31,7 +31,7 @@
 - Collaborated with 5+ cross-functional teammates to align presentation content with project objectives.
 
 ---
-<img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+
 
 ## 🏆 Achievements
 
@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Tiwari-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
+<img align="right" alt="Coding" width="150" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left">
 <h3 align="left">Activity:</h3>
 <p align="left">
