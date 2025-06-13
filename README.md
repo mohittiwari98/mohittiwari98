@@ -12,8 +12,10 @@
 - 👨‍💻 All of my projects are available at [https://mohit45.netlify.app](https://mohit45.netlify.app)
 
 - 📫 How to reach me **mohittiwari17091709@gmail.com**
-- ## 🏆 GitHub Trophies
+- 
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohittiwari98&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+###EXPERIENCE###
 #### 🧑‍💻 Frontend developer intern 
 **Pinnacle Lab.**  
 📅 *March 1, 2025 – Present*  
