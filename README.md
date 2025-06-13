@@ -14,8 +14,20 @@
 - 📫 How to reach me **mohittiwari17091709@gmail.com**
 - 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohittiwari98&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Achievement Gallery with Animated Title -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+ACHIEVEMENT+GALLERY+%F0%9F%8F%86;%E2%9A%A1+CODING+MILESTONES+%E2%9A%A1;%F0%9F%94%A5+DEVELOPER+STATS+%F0%9F%94%A5" alt="Achievement Title" />
+  
+<div style="background: linear-gradient(135deg, rgba(255, 215, 0, 0.15), rgba(255, 107, 157, 0.15), rgba(78, 205, 196, 0.15)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 2px solid rgba(255, 215, 0, 0.4); box-shadow: 0 0 30px rgba(255, 215, 0, 0.3);">
+    
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohittiwari98&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews)
+</div>
+</div>
+
+<!-- Neon divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 ###EXPERIENCE###
+
 #### 🧑‍💻 Frontend developer intern 
 **Pinnacle Lab.**  
 📅 *March 1, 2025 – Present*  
@@ -71,6 +83,16 @@
 <a href="https://www.youtube.com/c/https://youtube.com/@glamorien?si=outterlzxqnl5aau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@glamorien?si=outterlzxqnl5aau" height="30" width="40" /></a>
 </p>
 
+### 📊 Language Distribution
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=8&custom_title=🎯%20Code%20Stats)
+
+</td>
+<td width="50%" align="center">
+
+### 🍩 Visual Breakdown
+
+![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=6&custom_title=🎨%20Distribution)
 
 
 # 💻 Tech Stack:
@@ -78,6 +100,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
 
 
 ---
@@ -88,7 +111,7 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 # 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohittiwari98&theme=rogue)](https://github.com/mohittiwari98/github-readme-activity-graph)
