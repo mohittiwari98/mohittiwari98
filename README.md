@@ -72,10 +72,12 @@
 ## 🏆 STATS
 <h3 align="left">STATS:</h3>
 <p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohittiwari98&show_icons=true&locale=en&layout=compact" alt="mohittiwari98" /></p>
+  ## 📊 GitHub Stats:
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mohittiwari98?cardType=level-alternate&theme=outrun&preferLogin=false)](https://git.io/awesome-stats-card)
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohittiwari98&show_icons=true&locale=en&layout=compact" alt="srijitmondal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohittiwari98&show_icons=true&locale=en" alt="mohittiwari98" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohittiwari98&theme=cyber-streakglow&short_numbers=true)](https://git.io/streak-stats)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohittiwari98&" alt="mohittiwari98" /></p>
 
