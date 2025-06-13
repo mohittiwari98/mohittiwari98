@@ -76,13 +76,9 @@
 <p align="left">
   ## 📊 GitHub Stats:
   
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mohittiwari98?cardType=level-alternate&theme=outrun&preferLogin=false)](https://git.io/awesome-stats-card)
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohittiwari98&show_icons=true&locale=en&layout=compact" alt="srijitmondal" /></p>
-
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohittiwari98&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohittiwari98&theme=rogue)](https://github.com/mohittiwari98/github-readme-activity-graph)
