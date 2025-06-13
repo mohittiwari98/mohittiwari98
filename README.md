@@ -84,7 +84,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohittiwari98&theme=dark&hide_border=false)
 
-
 # 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohittiwari98&theme=rogue)](https://github.com/mohittiwari98/github-readme-activity-graph)
 
