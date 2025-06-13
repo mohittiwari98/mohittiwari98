@@ -80,7 +80,10 @@
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohittiwari98&show_icons=true&locale=en&layout=compact" alt="srijitmondal" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohittiwari98&theme=cyber-streakglow&short_numbers=true)](https://git.io/streak-stats)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohittiwari98&theme=dark&hide_border=false)
+
 
 # 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohittiwari98&theme=rogue)](https://github.com/mohittiwari98/github-readme-activity-graph)
