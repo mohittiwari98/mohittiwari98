@@ -12,6 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://mohit45.netlify.app](https://mohit45.netlify.app)
 
 - 📫 How to reach me **mohittiwari17091709@gmail.com**
+- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohittiwari98&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 #### 🧑‍💻 Frontend developer intern 
 **Pinnacle Lab.**  
 📅 *March 1, 2025 – Present*  
@@ -79,7 +81,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohittiwari98&show_icons=true&locale=en&layout=compact" alt="srijitmondal" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohittiwari98&theme=cyber-streakglow&short_numbers=true)](https://git.io/streak-stats)
+
 # 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohittiwari98&theme=rogue)](https://github.com/mohittiwari98/github-readme-activity-graph)
 
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohittiwari98&limit=5&theme=dark&combine_all_yearly_contributions=true)
