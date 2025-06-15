@@ -117,10 +117,10 @@
 <h3 align="left">STATS:</h3>
 <p align="left">
   ## 📊 GitHub Stats:
-  
-![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  ![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=cobalt2&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=cobalt2&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohittiwari98&theme=rogue)](https://github.com/mohittiwari98/github-readme-activity-graph)
