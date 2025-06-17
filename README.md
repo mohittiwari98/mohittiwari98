@@ -117,9 +117,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ![](https://raw.githubusercontent.com/mohittiwari98/mohit-tiwari98/master/profile-summary-card-output/yeblu/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/mohittiwari98/mohit-tiwari98/master/profile-summary-card-output/yeblu/4-productive-time.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohittiwari98&theme=yeblu&utcOffset=8)
 
 
 # 📈 Activity Graph
