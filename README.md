@@ -86,14 +86,9 @@
 
 ### 📊 Language Distribution
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=8&custom_title=🎯%20Code%20Stats)
+![](https://raw.githubusercontent.com/mohittiwari98/mohit-tiwari98/master/profile-summary-card-output/yeblu/1-repos-per-language.svg)
 
-</td>
-<td width="50%" align="center">
-
-### 🍩 Visual Breakdown
-
-![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=6&custom_title=🎨%20Distribution)
+![](https://raw.githubusercontent.com/mohittiwari98/mohit-tiwari98/master/profile-summary-card-output/yeblu/2-most-commit-language.svg)
 
 <div align="center">
 <h1>
@@ -121,6 +116,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://raw.githubusercontent.com/mohittiwari98/mohit-tiwari98/master/profile-summary-card-output/yeblu/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/mohittiwari98/mohit-tiwari98/master/profile-summary-card-output/yeblu/4-productive-time.svg)
 
 
 # 📈 Activity Graph
