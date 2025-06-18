@@ -113,15 +113,17 @@
 <p align="left">
   ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://raw.githubusercontent.com/mohittiwari98/mohit-tiwari98/master/profile-summary-card-output/yeblu/0-profile-details.svg)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittiwari98&theme=yeblu)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohittiwari98&theme=yeblu&utcOffset=8)
-
 
 # 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohittiwari98&theme=rogue)](https://github.com/mohittiwari98/github-readme-activity-graph)
