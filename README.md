@@ -86,9 +86,10 @@
 
 ### 📊 Language Distribution
 
-![](https://raw.githubusercontent.com/mohittiwari98/mohit-tiwari98/master/profile-summary-card-output/yeblu/1-repos-per-language.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohittiwari98&theme=yeblu)
 
-![](https://raw.githubusercontent.com/mohittiwari98/mohit-tiwari98/master/profile-summary-card-output/yeblu/2-most-commit-language.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohittiwari98&theme=yeblu)
+
 
 <div align="center">
 <h1>
@@ -118,11 +119,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittiwari98&theme=yeblu)
 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohittiwari98&theme=yeblu&utcOffset=8)
+
 
 
 
