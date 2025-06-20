@@ -114,10 +114,10 @@
   ## 📊 GitHub Stats:
 
 
+![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittiwari98&theme=yeblu)
@@ -130,4 +130,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohittiwari98&theme=rogue)](https://github.com/mohittiwari98/github-readme-activity-graph)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohittiwari98&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mohittiwari98&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
