@@ -118,10 +118,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=outrun&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittiwari98&theme=yeblu)
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohittiwari98&theme=yeblu&utcOffset=8)
