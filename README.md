@@ -18,7 +18,7 @@
     <img src="https://komarev.com/ghpvc/?username=mohittiwari98&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
     
   <img src="https://img.shields.io/github/followers/mohittiwari98?color=red&style=for-the-badge&label=Followers" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/mohittiwari98?color=lightblue&style=for-the-badge&label=Stars" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/mohittiwari98?color=cyan&style=for-the-badge&label=Stars" alt="Stars" />
   
    
   </p>
