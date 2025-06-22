@@ -124,11 +124,14 @@
 <h3 align="left">STATS:</h3>
 <p align="left">
   ## 📊 GitHub Stats:
- 
-  ![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+  ![](https://github-readme-stats.vercel.app/api?username=mohittiwari98&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  
+![](https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari98&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittiwari98&theme=yeblu)
 
