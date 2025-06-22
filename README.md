@@ -5,14 +5,24 @@
 </div>
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohittiwari98&label=Profile%20views&color=0e75b6&style=flat" alt="mohittiwari98" /> </p>
+
 
 - 🔭 I’m currently working on **React, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://mohit45.netlify.app](https://mohit45.netlify.app)
 
 - 📫 How to reach me **mohittiwari17091709@gmail.com**
-- 
+
+-   ### 🏆 Profile Metrics
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mohittiwari98&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+    
+  <img src="https://img.shields.io/github/followers/mohittiwari98?color=green&style=for-the-badge&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/mohittiwari98?color=yellow&style=for-the-badge&label=Stars" alt="Stars" />
+  
+   
+  </p>
+  
 ## 🏆 GitHub Trophies
 <!-- Achievement Gallery with Animated Title -->
 <div align="center">
