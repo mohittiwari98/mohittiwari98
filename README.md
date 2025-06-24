@@ -57,8 +57,8 @@
 ## My Badges
 
 <div align="center">
-  <img src="skill-verified-backend.0c910c4b..png" alt="Backend Badge" width="50" height="50">
-  <img src="skill-verified-frontend.b9559f3f..png" alt="Frontend Badge" width="50" height="50">
+  <img src="skill-verified-backend.0c910c4b..png" alt="Backend Badge" width="75" height="75">
+  <img src="skill-verified-frontend.b9559f3f..png" alt="Frontend Badge" width="75" height="75">
 </div>
  
 
