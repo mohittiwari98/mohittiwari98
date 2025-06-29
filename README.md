@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Tiwari</h1>
 <div align="center">
-
-  ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fmohittiwari98f97f6.png?alt=media)
   
+
   <img src="Black Minimalist Music YouTube Banner.png" alt="DevOpsShack Banner">
 </div>
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
