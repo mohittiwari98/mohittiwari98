@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Tiwari</h1>
 <div align="center">
 
-
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fmohittiwari9816e95.png?alt=media)
   
 
   <img src="Black Minimalist Music YouTube Banner.png" alt="DevOpsShack Banner">
