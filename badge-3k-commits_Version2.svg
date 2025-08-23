@@ -1,0 +1,12 @@
+<svg width="120" height="140" viewBox="0 0 120 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="60,10 110,40 110,100 60,130 10,100 10,40" fill="#181818" stroke="#bfc1c6" stroke-width="4"/>
+  <text x="22" y="68" font-size="32" font-family="Segoe UI,Arial,sans-serif" fill="#fff" font-weight="bold">3K+</text>
+  <text x="25" y="93" font-size="17" font-family="Segoe UI,Arial,sans-serif" fill="#cccccc" font-weight="bold">COMMITS</text>
+  <circle cx="80" cy="85" r="25" fill="url(#grad5)" opacity="0.85"/>
+  <defs>
+    <radialGradient id="grad5" cx="80" cy="85" r="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff61a6"/>
+      <stop offset="100%" stop-color="#f9a8d4"/>
+    </radialGradient>
+  </defs>
+</svg>
