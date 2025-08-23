@@ -4,7 +4,14 @@
 
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fmohittiwari98154f9.png?alt=media)
 
- 
+ ![3k+ Commits](./badge-3k-commits_Version2.svg)
+![50 Days](./badge-50-days_Version2.svg)
+![50 Repositories](./badge-50-repos_Version2.svg)
+![500+ Stars](./badge-500-stars_Version2.svg)
+![August](./badge-august_Version2.svg)
+![July](./badge-july_Version2.svg)
+![June](./badge-june_Version2.svg)
+
 </div>
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
