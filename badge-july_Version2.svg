@@ -1,0 +1,11 @@
+<svg width="120" height="140" viewBox="0 0 120 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="60,10 110,40 110,100 60,130 10,100 10,40" fill="#181818" stroke="#bfc1c6" stroke-width="4"/>
+  <text x="28" y="78" font-size="27" font-family="Segoe UI,Arial,sans-serif" fill="#7fdfff" font-weight="bold">JULY</text>
+  <circle cx="80" cy="85" r="25" fill="url(#grad3)" opacity="0.85"/>
+  <defs>
+    <radialGradient id="grad3" cx="80" cy="85" r="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8a5cff"/>
+      <stop offset="100%" stop-color="#38f9d7"/>
+    </radialGradient>
+  </defs>
+</svg>
