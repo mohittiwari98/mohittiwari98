@@ -1,0 +1,12 @@
+<svg width="120" height="140" viewBox="0 0 120 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="60,10 110,40 110,100 60,130 10,100 10,40" fill="#181818" stroke="#bfc1c6" stroke-width="4"/>
+  <text x="30" y="68" font-size="38" font-family="Segoe UI,Arial,sans-serif" fill="#d4d4d4" font-weight="bold">50</text>
+  <text x="33" y="93" font-size="17" font-family="Segoe UI,Arial,sans-serif" fill="#cccccc" font-weight="bold">DAYS</text>
+  <circle cx="80" cy="85" r="25" fill="url(#grad1)" opacity="0.85"/>
+  <defs>
+    <radialGradient id="grad1" cx="80" cy="85" r="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#43e97b"/>
+      <stop offset="100%" stop-color="#38f9d7"/>
+    </radialGradient>
+  </defs>
+</svg>
