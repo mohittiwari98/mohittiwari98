@@ -14,6 +14,10 @@
 |--------|------|------|
 | ![August](./badge-august_Version2.svg) | ![July](./badge-july_Version2.svg) | ![June](./badge-june_Version2.svg) |
 
+## 🌟 My Leetcode Badges
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={Mohittiwari98-78}&theme={black}" alt="LeetCode Badges" />
+
 
 
 </div>
