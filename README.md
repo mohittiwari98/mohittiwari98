@@ -16,7 +16,7 @@
 
 ## 🌟 My Leetcode Badges
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Mohittiwari98-78}&theme={black}" alt="LeetCode Badges" />
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=mohittiwari98-78&animated=true)
 
 
 
