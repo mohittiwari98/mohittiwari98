@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Mohit%20Tiwari&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Enthusiast&descSize=17&descAlignY=60&textBg=false" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+Building+full-stack+apps+with+AI+superpowers;💡+MERN+Stack+%7C+TypeScript+%7C+React+Native;🌱+Learning+something+new+every+single+day;🤝+Open+to+collaborate+on+exciting+projects;⚡+Stay+foolish.+Stay+hungry." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+full-stack+apps+with+AI+superpowers;MERN+Stack+%7C+TypeScript+%7C+React+Native;Learning+something+new+every+single+day;Open+to+collaborate+on+exciting+projects;Stay+foolish.+Stay+hungry." alt="Typing SVG" />
 </p>
+
 
 <div align="center">
 
@@ -132,7 +133,7 @@ const mohit = {
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohittiwari98&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=mohittiwari98&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
@@ -201,12 +202,6 @@ const mohit = {
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mohittiwari98&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-</p>
-
 ---
 
 ## 🎓 Certifications & Achievements
@@ -261,11 +256,7 @@ const mohit = {
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" />
-  </a>
-</p>
+
 
 ---
 
