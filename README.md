@@ -140,6 +140,13 @@ const mohit = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohittiwari98&theme=tokyo-night&radius=10&hide_border=true&area=true" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/mohittiwari98">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohittiwari98&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+
 ---
 
 ## 🏆 Trophies & Milestones
