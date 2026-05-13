@@ -194,7 +194,9 @@ const mohit = {
 ## 🧩 LeetCode & Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mohittiwari98-78?theme=dark&ext=activity&border=0" />
+
+  ![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=mohit98&theme=dark)
+  
 </p>
 
 <p align="center">
