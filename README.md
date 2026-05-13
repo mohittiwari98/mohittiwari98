@@ -195,7 +195,8 @@ const mohit = {
 
 <p align="center">
 
-  ![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=mohit98&theme=dark)
+
+  ![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=mohit98&theme=radical)
   
 </p>
 
