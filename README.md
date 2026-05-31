@@ -45,22 +45,8 @@ const mohit = {
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🗺️ **Field Attendance Tracker** | Mobile app with real-time geolocation, timestamped attendance & history | `React Native` `TypeScript` `MySQL` `ArcGIS` | [📱 App](#) |
-| 🤖 **AI Prompt Toolkit** | 50+ optimized prompts + dataset analysis — improved accuracy by 35% | `Python` `R` `Google SlidesAI` | [🔗 Repo](#) |
-| 🌐 **Portfolio Website** | Personal portfolio with projects, experience & skills showcase | `React` `Tailwind CSS` `Vite` | [🌍 Live](https://mohit45.netlify.app) |
-| 👁️ **YOLOv8 Object Detection** | Real-time detection pipeline integrated with GeoServer for spatial mapping | `Python` `YOLOv8` `Roboflow` `GeoServer` | [🔗 Repo](#) |
-
-</div>
-
-> 💡 *Replace `#` with your actual GitHub repo URLs!*
-
----
 
 ## 💼 Work Experience
 
